@@ -12,8 +12,7 @@ composer require iandenh/cakephp-sendgrid
 ```
 
 ## Setting up your CakePHP application ##
-In you `app.php`:
-
+In your `config/app.php`:
 
     'Email' => [
         'Sendgrid' => [
